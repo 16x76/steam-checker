@@ -4,8 +4,8 @@ log:pass
 
 todo: <br>
 ```
-workflow if the account has steam guard <br>
-Editing and saving profiles that have not been finalized <br>
+workflow if the account has steam guard 
+Editing and saving profiles that have not been finalized 
 timeout notification from steam
 
 
